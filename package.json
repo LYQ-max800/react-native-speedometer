@@ -1,5 +1,5 @@
 {
-  "name": "react-native-speedometer",
+  "name": "speedometer-lawyq",
   "version": "1.0.5",
   "description": "A Customizable Speedometer Implementation in React Native",
   "main": "dist/react-native-speedometer.cjs.js",
@@ -78,7 +78,8 @@
     "react-native": "^0.57.1"
   },
   "dependencies": {
-    "prop-types": "^15.6.2"
+    "prop-types": "^15.6.2",
+    "sass": "^1.77.8"
   },
   "jest": {
     "preset": "react-native",
